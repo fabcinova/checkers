@@ -1,0 +1,16 @@
+controller
+controller.exceptions
+controller.interfaces
+controller.network
+controller.player
+controller.tests
+model
+model.basis
+model.exceptions
+model.figures
+model.history
+model.notation
+model.tests
+view
+view.gui
+view.interfaces

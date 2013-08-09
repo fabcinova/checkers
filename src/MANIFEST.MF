@@ -1,0 +1,5 @@
+Manifest-Version: 3.3
+Created-By: Stanislav Smatana
+Class-Path: lib/dom4j.jar lib/hamcrest.jar lib/junit.jar
+Main-Class: MainApp
+
